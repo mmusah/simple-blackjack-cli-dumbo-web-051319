@@ -1,6 +1,6 @@
 def welcome
-  # code #welcome here
-end
+  puts "Welcome"
+  end
 
 def deal_card
   # code #deal_card here
