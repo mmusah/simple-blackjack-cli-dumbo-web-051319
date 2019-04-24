@@ -18,7 +18,7 @@ def get_user_input
   gets.chomp.strip
 end
 
-def end_game
+def end_game(card_sum)
   puts "Sorry, you hit #{card_sum}. Thanks for playing!"
 end
 
