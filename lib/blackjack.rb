@@ -49,7 +49,6 @@ end
 # get every test to pass before coding runner below #
 #####################################################
 
-def runner
   def runner
   welcome
   card_sum = initial_round
